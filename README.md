@@ -36,3 +36,4 @@ If you want to change the keyboard shortcut:
 This extension only requests minimal permissions:
 - `activeTab`: To access the current tab's URL
 - `clipboardWrite`: To copy the URL to your clipboard
+- `scripting`: To show success banner
